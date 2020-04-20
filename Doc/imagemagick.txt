@@ -1,0 +1,1 @@
+convert -density 150 Poster.pdf Poster.png
